@@ -4,7 +4,7 @@ public class IceCream extends Sweet {
 
 	public String purchaseIceCream()
 	{
-		return "Candy / slice / cup";
+		return "Candy / slice / cup / bread";
 	}
 	
 	@Override
