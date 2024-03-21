@@ -4,7 +4,7 @@ public abstract class Halwa extends Sweet{
 
 	public Halwa()
 	{
-		System.out.println("is a type of Halwa");
+		System.out.println("is a type of Halwa. carrot halwa");
 	}
 	public abstract void makeHalwa();
 }
